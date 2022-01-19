@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 - 👀 I’m interested in simulations, machine learning and embedded systems
-- 🌱 I’m currently learning Swift and Go
+- 🌱 I’m currently practising and broadening my skills in all my languages!
 - 💞️ I’m looking to collaborate on any and all C, C++, C# and Python projects
 - 📫 Email me contact@xeta.space
 
